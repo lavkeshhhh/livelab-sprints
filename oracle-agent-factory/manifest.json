@@ -1,0 +1,26 @@
+{
+  "workshoptitle": "Oracle AI Database Private Agent Factory LiveLabs Sprints",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introduction",
+      "description": "Introduction to the Agent Factory",
+      "filename": "introduction/index.md"
+    },
+    {
+      "title": "Database Actions Orchestrator",
+      "description": "Set up the Database Actions Orchestrator",
+      "filename": "lab-01-orchestrator/index.md"
+    },
+    {
+      "title": "Linux Compute/VM Agent",
+      "description": "Configure the Linux VM Agent",
+      "filename": "lab-02-linux-agent/index.md"
+    },
+    {
+      "title": "Kubernetes Control Agent",
+      "description": "Setup and manage the Kubernetes Agent",
+      "filename": "lab-03-k8s-agent/index.md"
+    }
+  ]
+}

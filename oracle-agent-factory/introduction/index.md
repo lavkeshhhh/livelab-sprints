@@ -1,26 +1,28 @@
 # Introduction
 
 ## About this Workshop
-The **Oracle AI Database Private Agent Factory** sprints are designed to help you quickly create actionable AI Agents. This workshop is a collection of sprints for building use-case specific agents in the Agent Factory using simple REST APIs.
+The **Oracle AI Database Private Agent Factory** empowers you to build specialized, secure AI agents that interact with your enterprise infrastructure. This workshop guides you through creating three distinct types of agents using the Agent Factory's visual interface and MCP (Model Context Protocol) integration.
 
-The initial release covers the Database Orchestrator Agent, Linux VM Management Agent, and Kubernetes Monitoring Management Agent.
+You will learn how to orchestrate complex database operations, manage compute instances, and monitor Kubernetes clusters—all through natural language.
 
-Estimated Time: 15 minutes
+**Estimated Time: 45 minutes**
+
+**(Architecture Overview)**
+![Oracle Agent Factory Architecture](images/architecture.png " ")
 
 ### Objectives
-In this workshop, you will learn how to:
-* Understand the 23ai Private Agent Factory architecture.
-* Set up the **Database Actions Orchestrator**.
-* Configure the **Linux Compute/VM Agent**.
-* Deploy and manage the **Kubernetes Control Agent**.
+In this workshop, you will build three powerful agents:
+1.  **Database Actions Orchestrator**: A master agent that coordinates specialized sub-agents (Security, Schema, Data) to perform safe database operations.
+2.  **Linux Compute/VM Agent**: An infrastructure agent that connects to your OCI/On-prem environment to monitor and manage Linux VMs via CLI commands.
+3.  **Kubernetes Control Agent**: A cloud-native agent that inspects and controls OKE clusters, deployments, and pods.
 
 ### Prerequisites
 This workshop assumes you have:
-* An Oracle Cloud Account.
-* Familiarity with Oracle Database distributed environments.
-* Basic understanding of AI Agents, LLMs, and related concepts.
+*   An Oracle Cloud Account.
+*   Access to the Oracle Agent Factory environment.
+*   Basic familiarity with Database, Linux, and Kubernetes concepts.
+*   Understanding of AI Agents and LLMs.
 
 ## Acknowledgements
-* **Author** - lavkesh.singh@oracle.com
-* **Contributors** - LiveLabs Team, DB Product Management
-* **Last Updated By/Date** - Varun Kumar, September 2025
+*   **Author** - Lavkesh Singh
+*   **Last Updated By/Date** - February 2026

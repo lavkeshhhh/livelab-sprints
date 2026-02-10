@@ -1,0 +1,12 @@
+{
+    "workshoptitle": "Kubernetes Control Agent",
+    "help": "livelabs-help-**enterarea**_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Kubernetes Control Agent",
+            "description": "Create an agent to control K8s clusters",
+            "filename": "k8s-control-agent.md"
+        }
+    ],
+    "task_type": "Sections"
+}

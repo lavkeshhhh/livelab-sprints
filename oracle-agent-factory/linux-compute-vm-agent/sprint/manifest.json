@@ -1,0 +1,12 @@
+{
+    "workshoptitle": "Linux Compute/VM Agent",
+    "help": "livelabs-help-**enterarea**_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Linux Compute/VM Agent",
+            "description": "Create an agent to manage Linux VMs",
+            "filename": "linux-compute-agent.md"
+        }
+    ],
+    "task_type": "Sections"
+}

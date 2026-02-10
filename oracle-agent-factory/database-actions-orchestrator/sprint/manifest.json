@@ -1,0 +1,12 @@
+{
+    "workshoptitle": "Database Actions Orchestrator",
+    "help": "livelabs-help-**enterarea**_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Database Actions Orchestrator",
+            "description": "Learn how to build a DB Master Orchestrator",
+            "filename": "db-actions-orchestrator.md"
+        }
+    ],
+    "task_type": "Sections"
+}

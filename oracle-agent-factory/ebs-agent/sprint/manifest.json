@@ -1,0 +1,12 @@
+{
+    "workshoptitle": "Oracle EBS Agent",
+    "help": "livelabs-help-**enterarea**_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Oracle EBS Agent",
+            "description": "Create an agent to interact with Oracle E-Business Suite via MCP",
+            "filename": "ebs-agent.md"
+        }
+    ],
+    "task_type": "Sections"
+}
